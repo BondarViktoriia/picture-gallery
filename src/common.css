@@ -1,0 +1,32 @@
+.search-form {
+display: flex;
+text-align: center;
+margin: auto;
+justify-content: center;
+}
+
+.search-input{
+    margin-right: 25px;
+    width: 365px;
+    height: 30px;
+    background-color: rgb(0, 221, 255);
+    color: black;
+    border-color:rgb(2, 42, 106);
+}
+
+.search-button{
+    background-color: black;
+        color: rgb(0, 221, 255);
+        border-color: rgb(2, 42, 106);
+}
+
+.load-more{
+  position: absolute;
+  transform: translateX(680px);
+    margin-top: 20px;
+    height: 30px;
+
+    background-color: black;
+        color: rgb(0, 221, 255);
+        border-color: rgb(2, 42, 106);
+}
